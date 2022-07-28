@@ -1,2 +1,1 @@
-# Dongri_solution
-cakd5 3rd pjt
+# donggri_web
